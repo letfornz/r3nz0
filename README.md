@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" />
 
-I am an AppSec analyst and cybersecurity enthusiast. I'm passionate about technology and I love learning new things.
+I'm a AppSec analyst and cybersecurity enthusiast. I'm passionate about technology and I love learning new things.
 
-## ⚡ Technologies
+## 🧔🏻 About
 
 Here are a few things I've picked up along my learning journey.
 
