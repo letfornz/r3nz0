@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### Hackerone Hacktivity 💻
 
-[![Hackerone](https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2019/12/hackerone.png?w=780&h=408&crop=1)](https://hackerone.com/letfornz)
+[![Hackerone](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA5PW9UoYwTTSrY-4rw9XWdghr3y6S12TjgegCY1pgiiEq9kam6b-E0oZGzE8waL5Yvw&usqp=CAU)](https://hackerone.com/letfornz)
 
 
 📊 **This Week I Spent My Time On** 
