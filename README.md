@@ -1,7 +1,13 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Renzo Barros 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Renzo Barros - aka letfornz 👨‍💻
 
-<!--
-**letfornz/letfornz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AppSec analyst and cybersecurity enthusiast. I'm passionate about technology and I love learning new things.
+
+## ⚡ Technologies
+
+Here are a few things I've picked up along my learning journey.
+
+
+
 
 Here are some ideas to get you started:
 
