@@ -9,7 +9,7 @@ I'm a AppSec analyst and cybersecurity enthusiast. I'm passionate about technolo
 Here are a few things I've picked up along my learning journey.
 
 
-* 📚 I'm currently learning on web development technologies like JavaScript, PHP,  etc.
+* 📚 I'm currently learning web development technologies like JavaScript, PHP and studying Pentesting | CyberSecurity.
 * 🏆 2021 Goals: Create projects focused on Bug Bounty and Cybersecurity Gamification.
 * 💪🏼 Future Goals: Learn new technologies - never stop creating new ideas.
 * ⚡ Fun fact: I love robotics and I love playing CS.
