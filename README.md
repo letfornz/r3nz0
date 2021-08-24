@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### Hackerone Hacktivity 💻
 
-[![Hackerone](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA5PW9UoYwTTSrY-4rw9XWdghr3y6S12TjgegCY1pgiiEq9kam6b-E0oZGzE8waL5Yvw&usqp=CAU)](https://hackerone.com/letfornz)
+[![Hackerone](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA5PW9UoYwTTSrY-4rw9XWdghr3y6S12TjgegCY1pgiiEq9kam6b-E0oZGzE8waL5Yvw&usqp=CAU)](https://hackerone.com/r3nz0)
 
 
 📊 **This Week I Spent My Time On** 
