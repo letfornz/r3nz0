@@ -1,23 +1,23 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Renzo Barros - aka letfornz 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Renzo - aka r3nz0 👨‍💻
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" />
 
-I'm a AppSec analyst and cybersecurity enthusiast. I'm passionate about technology and I love learning new things.
+I'm a senior application security analyst following DevSecOps practices and a cybersecurity enthusiast as a whole. I am passionate about technology and I love to learn new things.
 
 ## 🧔🏻 About
 
 Here are a few things I've picked up along my learning journey.
 
 
-* 📚 I'm currently learning web development technologies like JavaScript, PHP and studying Pentesting | CyberSecurity.
-* 🏆 2021 Goals: Create projects focused on Bug Bounty and Cybersecurity Gamification.
-* 💪🏼 Future Goals: Learn new technologies - never stop creating new ideas.
-* ⚡ Fun fact: I love robotics and I love playing CS.
+* 📚 I'm currently learning all about DevSecOps and Application Security
+* 🏆 2023/24 Goals: Create a tool in Go that performs fuzzing tests on API's based on Swagger/Collection.
+* 💪🏼 Future Goals: Learn even more about Golang and security solutions aimed at secure development – never stop creating new ideas.
+* ⚡ Fun fact: I love entrepreneurship and in my spare time I do bug bounties.
 
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzofranco/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/letfornz)
+[![Medium](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@r3nz0)
 
 ### Hackerone Hacktivity 💻
 
@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 📊 **This Week I Spent My Time On** 
 
 ```text
-📍 Location: Oysters River/Brasil
+📍 Location: Casimiro de Abreu/Brasil
 
 💬 Programming Languages: 
 No Activity Tracked This Week
